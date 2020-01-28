@@ -2,7 +2,8 @@
 ### Replicando a interface do Nubank com React Native
 
 
-![interface-nubank](https://github.com/MicaelliMedeiros/Nubank/blob/master/interface.png)
-<img src="https://github.com/MicaelliMedeiros/Nubank/blob/master/interface.png" width="400" height="790">
-![menu-nubank](https://github.com/MicaelliMedeiros/Nubank/blob/master/menu.png)
+
+<img src="https://github.com/MicaelliMedeiros/Nubank/blob/master/interface.png" width="720" height="1280">
+<img src="https://github.com/MicaelliMedeiros/Nubank/blob/master/menu.png" width="720" height="1280">
+
 
